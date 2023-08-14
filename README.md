@@ -34,6 +34,8 @@ npm run dev
 
 ![fronend-npm- run dev](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/05c84231-942d-49eb-a82d-bfd2f7dcca4c)
 
+![Captura22](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/778b29a5-bbef-4d38-a4d0-9bfdf0cd3bff)
+
 
 
 
