@@ -8,6 +8,8 @@ Front-
 npm install
 npm run dev
 
+![Captura22](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/778b29a5-bbef-4d38-a4d0-9bfdf0cd3bff)
+
 ![Imagen1](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/53869b6d-8a6c-47c8-bde2-9fe34fddf606)
 
 ![Imagen2](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/bff011b5-393f-49ed-889d-54a699fe76d3)
@@ -34,7 +36,7 @@ npm run dev
 
 ![fronend-npm- run dev](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/05c84231-942d-49eb-a82d-bfd2f7dcca4c)
 
-![Captura22](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/778b29a5-bbef-4d38-a4d0-9bfdf0cd3bff)
+
 
 
 
