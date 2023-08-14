@@ -26,3 +26,7 @@ npm run dev
 
 ![Imagen7](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/72626f6c-a316-43b5-9fdb-9de0dcb0b05b)
 
+
+![Imagen8](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/c44ce181-e5eb-477f-adb2-a5a95192af6e)
+
+
