@@ -32,6 +32,8 @@ npm run dev
 
 ![fronend-npm install](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/3667bc64-0274-49d4-bc6c-63addf2659f9)
 
+![fronend-npm- run dev](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/05c84231-942d-49eb-a82d-bfd2f7dcca4c)
+
 
 
 
