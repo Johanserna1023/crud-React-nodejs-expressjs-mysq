@@ -31,6 +31,8 @@ npm run dev
 
 ![npm install](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/7348c9c1-1939-4f91-b514-7ba2a0f10d20)
 
+![npm start](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/12928254-12f2-4d3d-bbd0-412290add233)
+
 
 
 
