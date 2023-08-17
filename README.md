@@ -7,7 +7,8 @@ la bd esta en el proyecto
 Front-
 npm install
 npm run dev
-
+username:samus
+password:123456
 ![Captura22](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/778b29a5-bbef-4d38-a4d0-9bfdf0cd3bff)
 
 ![Imagen1](https://github.com/Johanserna1023/crud-React-nodejs-expressjs-mysq/assets/93808275/53869b6d-8a6c-47c8-bde2-9fe34fddf606)
